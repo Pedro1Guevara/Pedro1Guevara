@@ -27,8 +27,9 @@ Leading Emotions&Care at Tech4Good Lab:
 
 ## Contact 📫
 - 📧 pedro.guevara.rodriguez@uabc.edu.mx
-- 💼 [Publication on IEEE](https://ieeexplore.ieee.org/document/10508706), [Publication on ReCiBE](https://recibe.cucei.udg.mx/index.php/ReCIBE/article/view/367)
-- 📍 Ensenada, México
+- 💼 [Publication on IEEE](https://ieeexplore.ieee.org/document/10508706)
+- 💼 [Publication on ReCiBE](https://recibe.cucei.udg.mx/index.php/ReCIBE/article/view/367)
+- 📍 Ensenada, Baja California, México
 
 ⚡ Fun fact: Almost studied Accounting just because my favorite anime character, Yoshikage Kira from JoJo's Bizarre Adventure, was an accountant.
 
