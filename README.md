@@ -20,14 +20,14 @@ Leading Emotions&Care at Tech4Good Lab:
 
 ## Tech Stack 💻
 - **Core**: Python (Cisco Certified), SQL, Pandas, NumPy
-- **Visualization**: Plotly, Tableau, Dash
-- **Machine Learning**: Scikit-learn, Statistical Analysis
+- **Visualization**: Plotly, Tableau, Dash, PowerBI
+- **Machine Learning**: Scikit-learn, Statistical Analysis, Clustering, Linear Regression
 - **Project Management**: Design Thinking, Agile
 - **Tools**: Git, Google Colab, Jupyter
 
 ## Contact 📫
 - 📧 pedro.guevara.rodriguez@uabc.edu.mx
-- 💼 [Publications](https://ieeexplore.ieee.org/document/10508706)(https://recibe.cucei.udg.mx/index.php/ReCIBE/article/view/367)
+- 💼 [Publication on IEEE](https://ieeexplore.ieee.org/document/10508706)[Publication on ReCiBE](https://recibe.cucei.udg.mx/index.php/ReCIBE/article/view/367)
 - 📍 Ensenada, México
 
 ⚡ Fun fact: Almost studied Accounting just because my favorite anime character, Yoshikage Kira from JoJo's Bizarre Adventure, was an accountant.
