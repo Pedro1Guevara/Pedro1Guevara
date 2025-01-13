@@ -1,7 +1,7 @@
 # Pedro David Guevara Rodriguez
 
 ## About Me 👋
-Final-year Business Intelligence student and Research Lead at Tech4Good Lab. Currently leading Emotions&Care, a mental health support app validated internationally, combining data analysis with human-centered design. Published researcher with papers in IEEE and international journals.
+Final-year Business Intelligence Bachelor's Degree student at Universidad Autónoma de Baja California (UABC) and Research Lead at Tech4Good Lab. Currently leading Emotions&Care, a mental health support app validated internationally, combining data analysis with human-centered design. Published researcher with papers in IEEE and international journals.
 
 😄 Pronouns: they/them
 
