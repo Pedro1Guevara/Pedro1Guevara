@@ -6,7 +6,7 @@ Final-year Business Intelligence student and Research Lead at Tech4Good Lab. Cur
 😄 Pronouns: they/them
 
 ## Current Work 🔭
-Leading Emotions&Care at Tech4Good Lab:
+Leading Emotions&Care at Tech4Good Lab (May 2023-Present):
 - Project Manager and Data Analyst for a mental health support application
 - Led validation studies with 15+ participants across Mexico and Spain
 - Published in IEEE and ReCiBE journals
