@@ -22,7 +22,7 @@ Leading Emotions&Care at Tech4Good Lab (May 2023-Present):
 - **Core**: Python (Cisco Certified), SQL, Pandas, NumPy
 - **Visualization**: Plotly, Tableau, Dash, PowerBI
 - **Machine Learning**: Scikit-learn, Statistical Analysis, Clustering, Linear Regression
-- **Project Management**: Design Thinking, Agile
+- **Project Management**: Design Thinking, Agile, Trello
 - **Tools**: Git, Google Colab, Jupyter
 
 ## Contact 📫
