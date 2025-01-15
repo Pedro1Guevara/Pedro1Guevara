@@ -6,7 +6,7 @@ Final-year Business Intelligence Bachelor's Degree student at Universidad Autón
 😄 Pronouns: they/them
 
 ## Current Work 🔭
-Leading Emotions&Care at Tech4Good Lab (May 2023-Present):
+Leading Emotions&Care at Tech4Good Lab (January 2023-Present):
 - Project Manager and Data Analyst for a mental health support application
 - Led validation studies with 15+ participants across Mexico and Spain
 - Published in IEEE and ReCiBE journals
